@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 body.dark-mode {
   background-color: #121212;
   color: #f5f5f5;
+=======
+header {
+  margin-bottom: 20px;
+>>>>>>> quick-fix/header-margin
 }
